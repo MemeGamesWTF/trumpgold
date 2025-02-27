@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740637323,
+	"version": 1740639000,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,7 @@
 		"images/biden-sheet2.png",
 		"images/particles.png",
 		"images/particles2.png",
+		"images/particles3.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/clash.m4a",
