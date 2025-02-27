@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740639000,
+	"version": 1740641716,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,7 @@
 		"images/particles.png",
 		"images/particles2.png",
 		"images/particles3.png",
+		"images/glowingneoncircleforyourdecorationneonlightroundframeblankspacefortextultravioletspectrumringsymbolhalopng-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/clash.m4a",
